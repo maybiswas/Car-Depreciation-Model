@@ -1,0 +1,1 @@
+Objective: To develop a model to predict the depreciation of any new or used car given the parameters available. It contains the current on road price of a new car ($), used car price ($) and depreciation percentage of the car, the make, model, variant, color, number of owners, kilometers driven or distance (km), body type, transmission, fuel type and On road price ($).
